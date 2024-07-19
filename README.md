@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JestemIc3dd
-- - 👀 I'm interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I'm interested in programming
+- 🌱 I’m currently learning Python and JavaScript
 - ⚡ My discord: ic3dd_

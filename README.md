@@ -1,4 +1,6 @@
-# Hi, I'm Ic3dd_
+<p align="center>
+  # Hi, I'm Ic3dd_
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JestemIc3dd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

@@ -1,6 +1,6 @@
-<h1 align="center">Hello! I'm ic3dd_</h1>
+<h1 align="center">Hello! I'm J2kub</h1>
 
-<img src="https://komarev.com/ghpvc/?username=JestemIc3dd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=j2kubb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -51,5 +51,5 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JestemIc3dd&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestemIc3dd&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=j2kubb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2kubb&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top langs" />
